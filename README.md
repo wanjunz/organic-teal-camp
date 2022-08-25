@@ -1,4 +1,4 @@
 # organic-teal-camp
-make a project represented by the random name generalizer
+#2021 TEAK Hack-a-thon: Assignment was to make a project represented by the random name generalizer
 
-#won second in 2021 TEAK Hack-a-thon
+#My team consisted of me (8th grader), another 8th grader, and a 7th grader. We won second place.
